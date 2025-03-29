@@ -8,10 +8,10 @@ A new Flutter project.
 ![GIF](Screen-Docs/praktikum-gif-calon-1.gif)
 
 ### **GIF Praktikum 2**
-![GIF](Screen-Docs/GIF-Flutter02-MasterPlan.gif)
+![GIF](Screen-Docs/praktikum-gif-calon-2.gif)
 
 ### **GIF Praktikum 3**
-![GIF](Screen-Docs/GIF-Flutter03-MasterPlan.gif)
+![GIF](Screen-Docs/praktikum-gif-calon-3.gif)
 
 ## Soal Praktikum 1
 1. Selesaikan langkah-langkah praktikum tersebut, lalu dokumentasikan berupa GIF hasil akhir praktikum beserta penjelasannya di file README.md! Jika Anda menemukan ada yang error atau tidak berjalan dengan baik, silahkan diperbaiki.
