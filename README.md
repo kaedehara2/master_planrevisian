@@ -5,7 +5,7 @@ A new Flutter project.
 
 ## Screen Capture
 ### **GIF Praktikum 1**
-![GIF](Screen-Docs/praktikum gif calon 1.gif)
+![GIF](Screen-Docs/praktikum-gif-calon-1.gif)
 
 ### **GIF Praktikum 2**
 ![GIF](Screen-Docs/GIF-Flutter02-MasterPlan.gif)
