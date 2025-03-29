@@ -42,7 +42,7 @@ Kumpulkan laporan praktikum Anda berupa document doc
     Selain itu, mengapa harus dibuat sebagai konstanta? agar nilai awalnya tidak akan berubah setelah diinisialisasi. Ini memberikan keamanan data dan menjaga konsistensi struktur rencana meskipun ada perubahan pada daftar tugas. Dengan menjadikannya sebagai konstanta, kode menjadi lebih mudah dibaca dan dipahami. Secara keseluruhan, variabel plan sangat penting untuk pengelolaan data dalam aplikasi, dan menjadikannya sebagai konstanta adalah praktik yang baik dalam pengembangan perangkat lunak.
 
 4. Setelah menambahkan widget _buildTaskTile, aplikasi akan menampilkan daftar tugas dengan checkbox dan field untuk mengedit deskripsi. Pengguna dapat mencentang atau menghapus centang pada checkbox untuk menandai tugas sebagai selesai atau belum selesai, serta dapat mengedit deskripsi tugas sesuai kebutuhan.
-    ![GIF](Screen-Docs/GIF-Flutter01-MasterPlan.gif)
+    ![GIF](Screen-Docs/praktikum-gif-calon-2.gif)
 
 5. **Langkah 11** : Pada langkah ini, menambahkan method initState() setelah deklarasi variabel scrollController. Method ini dipanggil ketika objek state dari widget diinisialisasi. Di dalam initState(), menginisialisasi scrollController dan menambahkan listener. Listener ini berfungsi untuk menangani interaksi pengguna dengan scroll. Ketika pengguna menggulir, meminta fokus pada FocusNode baru, yang membantu dalam mengelola keyboard dan interaksi pengguna. Dengan cara ini, memastikan bahwa semua pengaturan yang diperlukan sudah siap sebelum widget ditampilkan.
     
@@ -75,4 +75,15 @@ Dengan langkah ini, aplikasi menampilkan pesan jumlah tugas yang selesai dan tot
 ![ss tugas](assets/Screenshot-tugas-prak3.png)
 
 3. Lakukan capture hasil dari Langkah 14 berupa GIF, kemudian jelaskan apa yang telah Anda buat!
+
+## JAWABAN soal praktikum 3
+
+1. program telah berjalan sebagaimana aturannya
+
+2. ![ss tugas](assets/Screenshot-tugas-prak3.png)
+
+Gambar yang Anda unggah menunjukkan struktur widget dalam aplikasi Flutter, dengan perbedaan antara dua tampilan yang dihubungkan menggunakan Navigator Push.
+
+ada 2 struktur yang memiliki penjelasan berbeda disini 1 Struktur kiri sebelum navigasi dan 2 struktur kanan setelah navigasi
+
 
