@@ -109,3 +109,40 @@ ada 2 struktur yang memiliki penjelasan berbeda disini 1 Struktur kiri sebelum n
 7. ListView
 - Menampilkan daftar tugas dalam rencana yang sedang dibuat.
 
+Navigator Push → Berpindah ke PlanScreen
+Di tengah gambar terdapat Navigator Push, yang menunjukkan bahwa aplikasi berpindah ke layar baru.
+
+
+## PENJELASAN STRUKTUR KANAN (SETELAH NAVIGASI) 
+
+Setelah pengguna menekan tombol atau menyelesaikan input di PlanCreatorScreen, aplikasi berpindah ke layar PlanScreen, dengan struktur widget baru:
+
+1. MaterialApp
+- Masih menjadi root aplikasi.
+
+2. PlanScreen
+- Layar tujuan setelah navigasi.
+
+3. Scaffold
+- Menyediakan struktur dasar layar, termasuk AppBar, Body, dan FloatingActionButton.
+
+4. Column
+- Menyusun elemen di layar secara vertikal.
+
+5. Expanded
+- Memungkinkan ListView mengambil ruang yang tersedia.
+
+6. ListView
+- Menampilkan daftar tugas dalam Plan.
+
+7. SafeArea
+- Digunakan untuk memastikan bahwa Text tidak tertutup oleh elemen sistem seperti notch atau status bar.
+
+8. Text
+- Menampilkan informasi seperti jumlah tugas yang sudah selesai atau pesan status lainnya.
+
+## KESIMPULAN
+Sebelum navigasi, pengguna mengisi TextField di PlanCreatorScreen, lalu melihat daftar tugas yang sedang dibuat. Setelah navigasi (Navigator Push), pengguna diarahkan ke PlanScreen, tempat mereka bisa melihat daftar tugas dalam tampilan yang lebih terstruktur dan interaktif. SafeArea ditambahkan untuk memastikan teks tidak tertutup UI sistem.
+
+3. Beres/Done/Alhamdulillah/ EID MUBARAK
+
