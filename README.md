@@ -92,20 +92,20 @@ ada 2 struktur yang memiliki penjelasan berbeda disini 1 Struktur kiri sebelum n
 - Sebagai Root aplikasi flutter
 
 2. PlanProvider
--Penyedia data untuk state management, kemungkinan digunakan dengan ValueNotifier atau Provider.
+- Penyedia data untuk state management, kemungkinan digunakan dengan ValueNotifier atau Provider.
 
 3. PlanCreatorScreen
--Layar utama tempat pengguna dapat membuat atau mengedit Plan.
+- Layar utama tempat pengguna dapat membuat atau mengedit Plan.
 
 4. Column
--Mengatur tata letak widget secara vertikal.
+- Mengatur tata letak widget secara vertikal.
 
 5. TextField
--Input untuk pengguna mengisi atau mengedit nama Plan.
+- Input untuk pengguna mengisi atau mengedit nama Plan.
 
 6. Expanded
--Digunakan agar widget ListView bisa mengambil ruang tersisa di dalam Column.
+- Digunakan agar widget ListView bisa mengambil ruang tersisa di dalam Column.
 
 7. ListView
--Menampilkan daftar tugas dalam rencana yang sedang dibuat.
+- Menampilkan daftar tugas dalam rencana yang sedang dibuat.
 
